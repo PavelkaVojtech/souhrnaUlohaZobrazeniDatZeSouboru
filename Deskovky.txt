@@ -1,0 +1,4 @@
+Šachy;ne;2
+Karty;ano;1
+Černý Petr;ano;2
+Osadníci z Katanu;ne;3
